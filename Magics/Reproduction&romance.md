@@ -7,7 +7,7 @@ Quoted from Kama Sutra, Part 1, Chapter 3.
 
 >La propriété étant un droit inviolable et sacré, nul ne peut en être privé.  
 
-Quoted from Article 17 of the French Declaration of Human Rights, modified. 
+Quoted from Article 17 of the French Declaration of Human Rights, modified.  
 
 ### 中絶  
 
@@ -29,4 +29,24 @@ Incecta Inconstantum Evanesca
 Incecta Inconstantum finite Magnius  
 破壊  
 ホグワーツ世界線において、とある特殊なプレイのときにやらされた。  
-せっかくの魔法薬材料が完全にだめになってもったいないので
+せっかくの魔法薬材料が完全にだめになってもったいないので、二度と使うことはなかった。  
+
+胎児期後半  
+Core Sommnirinm infitratiwil
+介入宣言、もっとも幸福な夢をみさせる機関としての子宮に語り掛ける。  
+そしてその中で繰り広げられるのが幸福な夢であるならば、その誤りを指摘して破綻させることは容易い。  
+
+摘出
+消滅
+生命停止
+破壊
+
+出産後
+アバダ
+
+### 妊娠停止  
+
+今はまだ育てるときではない……
+らしい、一応作った。  
+
+### 避妊
