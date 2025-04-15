@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DB_FILE="OriginalCharacters.db"
+DB_FILE="FanacalCharacters.db"
 
 sqlite3 "$DB_FILE" <<'EOF'
 PRAGMA foreign_keys = ON;
@@ -66,6 +66,39 @@ CREATE TABLE IF NOT EXISTS enrollment (
     FOREIGN KEY (character_id) REFERENCES characters(id),
     FOREIGN KEY (institution_id) REFERENCES educational_institutions(id)
 );
+
+--初期値代入
+
+--学校初期値
+INSERT INTO educational_institutions (id, name) VALUES
+    (0,'hogwarts'),
+    (1,'beauxbâtons'),
+    (2,'durmstrang'),
+    (3,'ilvermorny'),
+    (4,'koldovstoretz'),
+    (5,'uagadou'),
+    (6,'castelobruxo'),
+    (7,'mahoutokoro');
+
+--寮初期値
+INSERT INTO houses (id, name) VALUES
+    (0,'griffindor'),
+    (1,'slytherin'),
+    (2,'ravenclaw'),
+    (3,'hufflepuff');
+
+--血族初期値
+INSERT INTO lineages (id, name,description) VALUES
+    (0,'black','originally'),
+    (1,'gaunt','originally'),
+    (2,'lestrange','originally'),
+    (3,'malfoy','originally'),
+    (4,'carrow','originally'),
+    (5,'greengrass','originally'),
+    (6,'ollivander','originally'),
+    (7,'parkinson','originally'),
+    (8,'gowin','advocated_by_Mq.seika');
+
 EOF
 
 echo "Database schema successfully created in $DB_FILE"
