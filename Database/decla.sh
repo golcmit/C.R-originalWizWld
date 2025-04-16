@@ -88,6 +88,7 @@ INSERT INTO houses (id, name) VALUES
     (3,'hufflepuff');
 
 --血族初期値
+
 INSERT INTO lineages (id, name,description) VALUES
     (0,'black','originally'),
     (1,'gaunt','originally'),
@@ -97,7 +98,7 @@ INSERT INTO lineages (id, name,description) VALUES
     (5,'greengrass','originally'),
     (6,'ollivander','originally'),
     (7,'parkinson','originally'),
-    (8,'gowin','advocated_by_Mq.seika');
+    (8,'gowin','advocated_by_Seika');
 
 EOF
 
