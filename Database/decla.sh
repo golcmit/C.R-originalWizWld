@@ -49,11 +49,20 @@ CREATE TABLE IF NOT EXISTS relationships (
     id INTEGER PRIMARY KEY,
     from_character INTEGER NOT NULL,
     to_character INTEGER NOT NULL,
-    relation_type TEXT NOT NULL,
+    relationship_type_id INTEGER NOT NULL,
     notes TEXT,
     FOREIGN KEY (from_character) REFERENCES characters(id),
-    FOREIGN KEY (to_character) REFERENCES characters(id)
+    FOREIGN KEY (to_character) REFERENCES characters(id),
+    FOREIGN KEY (relationship_type_id) REFERENCES relationship_types(id)
 );
+-- 関係種別マスターテーブル
+CREATE TABLE IF NOT EXISTS relationship_types (
+    id INTEGER PRIMARY KEY,
+    type_name TEXT NOT NULL UNIQUE,
+    is_bidirectional BOOLEAN NOT NULL -- 1: 双方向, 0: 一方向
+);
+
+
 
 -- ホグワーツ在籍情報
 CREATE TABLE IF NOT EXISTS enrollment (
@@ -99,6 +108,13 @@ INSERT INTO lineages (id, name,description) VALUES
     (6,'ollivander','originally'),
     (7,'parkinson','originally'),
     (8,'gowin','advocated_by_Seika');
+
+-- 関係性標準データを登録
+INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES (1, 'parent-child', 0);
+INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES (2, 'friends', 1);
+INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES (3, 'married', 1);
+INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES (4, 'crush', 0);
+INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES (5, 'sibling', 1);
 
 EOF
 
