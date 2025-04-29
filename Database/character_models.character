@@ -1,0 +1,34 @@
+{"characters":[
+    {
+    first_name:"Harry",
+    middle_name:"James",
+    current_last_name:"Potter",
+    birth_last_name:null
+    institution:"Hogwarts",
+    house:"Gryffindor",
+    linage:"Potter",
+    birth_date:"2003-10-10",
+    death_date:null,
+    sex:"male",
+    gender:"man",
+    orientation:null,
+    blood_status:"half-pure",
+    notes:"original"
+    },
+        {
+    first_name:"Scorpius"
+    middle_name:null,
+    current_last_name:"Malfoy"
+    birth_last_name:null,
+    institution:"Hogwarts",
+    house:"Slytherin",
+    linage:"Malfoy",
+    birth_date:"2006-4-12",
+    death_date:null,
+    sex:"male",
+    gender:"man",
+    orientation:null,
+    blood_status:"pure",
+    notes:"original"
+    }
+]}
