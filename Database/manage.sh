@@ -57,12 +57,7 @@ CREATE TABLE IF NOT EXISTS relationship_types (
   is_bidirectional BOOLEAN NOT NULL
 );
 
-INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES
-  (1, 'parent-child', 0),
-  (2, 'friends', 1),
-  (3, 'married', 1),
-  (4, 'crush', 0),
-  (5, 'sibling', 1);
+
 
 -- characters
 CREATE TABLE IF NOT EXISTS characters (
@@ -143,6 +138,13 @@ INSERT INTO lineages (id, name,description) VALUES
     (7,'parkinson','originally'),
     (8,'gowin','advocated_by_Seika');
 
+INSERT OR IGNORE INTO relationship_types (id, type_name, is_bidirectional) VALUES
+  (1, 'parent-child', 0),
+  (2, 'friends', 1),
+  (3, 'married', 1),
+  (4, 'crush', 0),
+  (5, 'sibling', 1);
+  
 EOF
   echo "Database initialized at '$DB_FILE'."
 }
