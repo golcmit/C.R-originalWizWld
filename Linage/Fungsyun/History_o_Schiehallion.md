@@ -19,7 +19,7 @@
 
 対立の中心はMarduk閥（旧Mordecai分家）へと移り、これを契機に解放派は宗家にならい「Scott-Marduk家」として組織を再編しました。これにより革命連合体制が一時的に確立されます。  
 しかしながら彼ら主導のロンドンへの進軍において、派閥外の参戦者を充分に獲得出来なかった結果、守旧派が呼んだ闇祓いによって一方的に壊滅します。  
-その後、解放派の指導権はWingate閥へ引き継がれます。Eliseus Charles Wingateが率いるWingate閥は、Marduk閥の最終リーダーの従弟として、その理念を引き継ぎました。組織名も「Schiehallion家」と改称され、革命連合体制に加えて純血主義が採用されました。  
+その後、解放派の指導権はWingate閥へ引き継がれます。[Eliseus Charles Wingate](./../../Characters/Eliseus_Charles_Wingate.md)が率いるWingate閥は、Marduk閥の最終リーダーの従弟として、その理念を引き継ぎました。組織名も「Schiehallion家」と改称され、革命連合体制に加えて純血主義が採用されました。  
 この時期、宗家との間では冷戦状態が続き、宗家はアルバス・ダンブルドアやホグワーツを支援し、一方でSchiehallion家はグリンデンバルド陣営に与するなど、思想的・実践的な対立が顕著化しました。  
 
 ---
@@ -28,7 +28,7 @@
 
 グリンデンバルドの失墜が決定的となる中、Oswetry閥が蜂起しました。この派閥は革命連合体制、純血主義、さらには魔法使い至上主義をも否定し、これらを廃絶することを目的としました。彼らはビジネスパートナーであったマグルのBydwarigo家から資金および後方支援を受けてSchiehallion家の構成員を粛清し、多くの血が流れる闘争となりました。  
 結果として、Schiehallion家の構成員の9割が死亡または追放され、Oswetry閥が一時的に主導権を握りました。しかし、大量の死傷者を伴う闘争の影響で人員不足に陥り、Bydwarigo家のAlexandra Bydwarigoが当主候補として推挙されます。Oswetry閥はこれを受け入れ、Alexandraは「Schiehallion」姓を名乗るに至りました。  
-当主となったAlexandraは、当時10歳だったPhillip Schiehallionとの婚約を受け入れるふりをしつつ、婚約直後に彼を殺害。その後、Oswetry閥の他の構成員も暗殺し、権力を完全に掌握します。  
+当主となったAlexandraは、当時10歳だった[Phillip Schiehallion](./../../Characters/Fungsyun/Phillip_Schiehallion.md)との婚約を受け入れるふりをしつつ、婚約直後に彼を殺害。その後、Oswetry閥の他の構成員も暗殺し、権力を完全に掌握します。  
 
 ---
 
