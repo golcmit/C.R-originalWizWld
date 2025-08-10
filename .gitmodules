@@ -1,3 +1,6 @@
 [submodule "Novel_projects"]
 	path = Novel_projects
 	url = https://github.com/golcmit/WizWld_Novels
+[submodule "Database/Sruighlea"]
+	path = Database/Sruighlea
+	url = git@github.com:golcmit/sruighlea.git
