@@ -40,7 +40,10 @@ CREATE TABLE IF NOT EXISTS educational_institutions (
 -- houses
 CREATE TABLE IF NOT EXISTS houses (
   id INTEGER PRIMARY KEY,
-  name TEXT NOT NULL UNIQUE
+  name TEXT NOT NULL UNIQUE,
+  institution_id INTEGER,
+  FOREIGN KEY (institution_id) REFERENCES educational_institutions(id),
+  UNIQUE (id, institution_id)
 );
 
 -- lineages
@@ -77,8 +80,8 @@ CREATE TABLE IF NOT EXISTS characters (
   blood_status TEXT,
   notes TEXT,
   FOREIGN KEY(institution_id) REFERENCES educational_institutions(id),
-  FOREIGN KEY(house_id) REFERENCES houses(id),
-  FOREIGN KEY(lineage_id) REFERENCES lineages(id)
+  FOREIGN KEY(lineage_id) REFERENCES lineages(id),
+  FOREIGN KEY(house_id, institution_id) REFERENCES houses(id, institution_id)
 );
 
 -- relationships
