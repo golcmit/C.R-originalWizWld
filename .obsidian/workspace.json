@@ -167,15 +167,17 @@
   },
   "active": "6af777a532b0772c",
   "lastOpenFiles": [
+    "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/visual.md",
+    "World/Characters/Eliseus_Charles_Wingate/profile.md",
+    "World/Linage/Kursdolf/FitzArthur/Eustace_Thetisius_History.md",
+    "World/Magics/Reproduction&romance.md",
     "World/Linage/Wolka.md",
     "World/Linage/Fungsyun/History_o_Soho.md",
     "World/Linage/Fungsyun/History_o_Schiehallion.md",
     "World/Linage/Fungsyun/Fungsyuns.md",
     "World/Linage/Merspiegal/Merspiegals.md",
     "World/Linage/Kursdolf/Libau-Kursdolf.md",
-    "World/Linage/Kursdolf/FitzArthur/Eustace_Thetisius_History.md",
     "Private/scripts/remove_dead_links.py",
-    "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/visual.md",
     "World/Characters/Dizaboula/profile.md",
     "Private/scripts/find_truly_simple_files.py",
     "Private/scripts/find_simple_files.py",
@@ -197,8 +199,6 @@
     "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/profile.md",
     "Private/scripts/relink_markdown.py",
     "Characters/Kursdolf/Barnaba_Ramiela_Libau-Kursdolf.md",
-    "image_script/Visual/Character_Visual_Scripts/Barnaba_Ramiela_Libau-Kursdolf.md",
-    "Characters/Kursdolf/Eustace_Thetisius_Offspring.md",
-    "Characters/Kursdolf/Hettia_Kursdolf.md"
+    "image_script/Visual/Character_Visual_Scripts/Barnaba_Ramiela_Libau-Kursdolf.md"
   ]
 }

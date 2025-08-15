@@ -1,6 +1,7 @@
 # 性と恋の魔法
   
 >A public woman, endowed with a good disposition, beauty and other winning qualities, and also versed in the above arts, obtains the name of a Ganika, or public woman of high quality, > and receives a seat of honour in an assemblage of men.  
+
 Quoted from Kama Sutra, Part 1, Chapter 3.  
 
 ## 生殖  
