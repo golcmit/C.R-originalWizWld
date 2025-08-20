@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Magics/Reproduction&romance.md",
+                "file": "World/Linage/Prousoglou.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reproduction&romance"
+              "title": "Prousoglou"
             }
           }
         ]
@@ -167,10 +167,23 @@
   },
   "active": "6af777a532b0772c",
   "lastOpenFiles": [
-    "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/visual.md",
-    "World/Characters/Eliseus_Charles_Wingate/profile.md",
+    "World/Characters/Yksel_Adrian_Nicnessa/profile.md",
+    "World/Characters/Hettia_Kursdolf/profile.md",
+    "World/Characters/Randolf_Fungsyun/profile.md",
+    "World/Characters/Monique_Gregoire_Cinqman/profile.md",
+    "World/Characters/Tiberius_Hua_Lei/profile.md",
+    "World/Characters/Byblos_Jordan_d_Arli/profile.md",
+    "World/Characters/Alexandra_Fungsyun/profile.md",
+    "World/Characters/Shiga_Chikara/profile.md",
+    "World/Characters/Galina_Yuhtlahm_Fungsyun/profile.md",
+    "World/Characters/Elisha_Dexter_Lizbethdottir/profile.md",
+    "World/Characters/Kazuaki_Prousoglou/profile.md",
+    "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/profile.md",
+    "World/Characters/Eustace_Thetisius_FitzArthur/profile.md",
     "World/Linage/Kursdolf/FitzArthur/Eustace_Thetisius_History.md",
     "World/Magics/Reproduction&romance.md",
+    "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/visual.md",
+    "World/Characters/Eliseus_Charles_Wingate/profile.md",
     "World/Linage/Wolka.md",
     "World/Linage/Fungsyun/History_o_Soho.md",
     "World/Linage/Fungsyun/History_o_Schiehallion.md",
@@ -186,19 +199,6 @@
     "Linage/Fungsyun/History_o_Schiehallion.md",
     "Linage/Fungsyun",
     "Linage",
-    "World/Characters/Alexandra_Fungsyun/profile.md",
-    "World/Characters/Galina_Yuhtlahm_Fungsyun/profile.md",
-    "World/Characters/Eustace_Thetisius_Offspring/profile.md",
-    "World/Characters/Arthur/profile.md",
-    "World/Characters/Genuina/profile.md",
-    "World/Characters/Genad_Jerios/profile.md",
-    "World/Characters/Eustace_Thetisius_FitzArthur/profile.md",
-    "World/Characters/Monique_Gregoire_Cinqman/profile.md",
-    "World/Characters/Marphique_Brackingen/profile.md",
-    "World/Characters/Erol/profile.md",
-    "World/Characters/Barnaba_Ramiela_Libau-Kursdolf/profile.md",
-    "Private/scripts/relink_markdown.py",
-    "Characters/Kursdolf/Barnaba_Ramiela_Libau-Kursdolf.md",
-    "image_script/Visual/Character_Visual_Scripts/Barnaba_Ramiela_Libau-Kursdolf.md"
+    "Private/scripts/relink_markdown.py"
   ]
 }
